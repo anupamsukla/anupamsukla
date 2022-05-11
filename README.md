@@ -6,7 +6,15 @@
 
 <h3>
 
-Hi 👋 My name is Anupam Anand Passionate Full Stack Web Developer. I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.* 🌍  I'm based in Banglore,India* ✉️  You can contact me at [anupamanand46@gmail.com](mailto:anupamanand46@gmail.com)* 🧠  I'm learning React* 🤝  I'm open to collaborating on Frontend and Backend projects* ⚡  Learning new things and contribute more</h3>
+Hi 👋 My name is Anupam Anand 
+  
+I'm a Passionate Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.* 
+  
+  🌍  I'm based in Banglore,India* ✉️  
+  You can contact me at [anupamanand46@gmail.com](mailto:anupamanand46@gmail.com)*
+  🧠  I'm learning React* 
+  🤝  I'm open to collaborating on Frontend and Backend projects* 
+  ⚡  Learning new things and contribute more</h3>
 
 
 <div align="center">
