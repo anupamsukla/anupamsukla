@@ -6,7 +6,7 @@
 
 <h3>
 
-Hi 👋 My name is Anupam Anand 
+Hi 👋 I'm Anupam Anand 
   
 I'm a Passionate Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.* 
   
