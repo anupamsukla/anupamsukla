@@ -1,5 +1,4 @@
-<div align="center">
-   <img  alt="GIF" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47w8krdeneqlzhlh7m2kc01sk2k89a8rr0v5bx3lw8&rid=giphy.gif&ct=g" />
+
 <!--   <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PiyushChaukade&show_icons=true&locale=en&layout=compact" alt="PiyushChaukade" /></p> -->
    
@@ -9,6 +8,9 @@
 
 Hi 👋 My name is Anupam Anand Passionate Full Stack Web Developer. I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.* 🌍  I'm based in Banglore,India* ✉️  You can contact me at [anupamanand46@gmail.com](mailto:anupamanand46@gmail.com)* 🧠  I'm learning React* 🤝  I'm open to collaborating on Frontend and Backend projects* ⚡  Learning new things and contribute more</h3>
 
+
+<div align="center">
+   <img  alt="GIF" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47w8krdeneqlzhlh7m2kc01sk2k89a8rr0v5bx3lw8&rid=giphy.gif&ct=g" />
 <!-- <a href="https://www.github.com/anupamsukla" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anupamsukla?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
