@@ -52,5 +52,15 @@ src="https://img.shields.io/github/followers/anupamsukla?logo=github&style=for-t
 
 <a href="https://github.com/anupamsukla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamsukla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
+<div width="100%" align="center">
+  <a href="https://github.com/anupamsukla/dermClone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anupamsukla&repo=KFC-COMPLETE-PROJECT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
+  <a href="https://github.com/anupamsukla/DotAndKey-final" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anupamsukla&repo=DotAndKey-final&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
+  <a href="https://github.com/anupamsukla/weather_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anupamsukla&repo=weather_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
+  <a href="https://github.com/anupamsukla/StopWatch_timer" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anupamsukla&repo=StopWatch_timer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
 </div><br /><br /><br /><br /><br /><br /><br />
