@@ -13,7 +13,7 @@
 
 I'm a Passionate Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.* 
   
-  🌍  I'm based in Banglore,India* <br>
+  🌍  I'm based in Hyderabad, India* <br>
   ✉️  You can contact me at [anupamanand46@gmail.com](mailto:anupamanand46@gmail.com)* <br>
   🧠  I'm learning React* <br>
   🤝  I'm open to collaborating on Frontend and Backend projects* <br>
